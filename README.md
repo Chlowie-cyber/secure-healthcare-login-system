@@ -55,8 +55,7 @@ All login attempts are recorded with timestamps to support monitoring and invest
 
 1. Clone the repository  
 2. Navigate to the project folder  
-3. Run:
-
+3. Run: python login_system.py
 
 
 Use the sample credentials stored in `users.csv`.
